@@ -24,7 +24,7 @@ All deadlines are at midnight(23:59) anywhere on Earth.
 ## Instructions
 We use the same formatting template as ACM Multimedia 2021. Submissions can be of varying length from 4 to 8 pages, plus additional pages for the reference pages. There is no distinction between long and short papers. All papers will undergo the same review process and review period. All contributions must be submitted through CMT:
 
-Use the following link: https://cmt3.research.microsoft.com/ACMMM2021/
+Use the following link: [https://cmt3.research.microsoft.com/ACMMM2021/](https://cmt3.research.microsoft.com/ACMMM2021/)
 Select the track: “1st International Workshop on Trustworthy AI for Multimedia Computing”
 The accepted workshop papers will be published in the ACM Digital Library.
 
