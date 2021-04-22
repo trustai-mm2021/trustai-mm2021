@@ -6,4 +6,6 @@ buttons:
   Overview: '#overview'
   Call for Contributions: '#overview'
   Important Dates: '#overview' 
-  INstructions: '#overview'
+  Instructions: '#overview'
+github:
+  is_project_page: false
