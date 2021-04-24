@@ -34,6 +34,9 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
     UIUC
   </div>
   
+  <div style="width:2.5%">
+  </div>
+  
   <div style="width:22.5%">
     <a href="https://ajmalsaeed.net/">
     <img alt="Ajmal Mian" src="pics/ajmal.png">
@@ -63,7 +66,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
     ETH Zurich
   </div>
 
-
+</div>
 
 
 ## Call for Contributions
