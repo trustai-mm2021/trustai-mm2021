@@ -49,7 +49,7 @@ The accepted workshop papers will be published in the ACM Digital Library.
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="http://people.rennes.inria.fr/Teddy.Furon/website/Welcome.html">
-    <img alt="Teddy Furon" src="pics/hima.jpg">
+    <img alt="Teddy Furon" src="pics/teddy.jpg">
     </a><br>
     <a href="http://people.rennes.inria.fr/Teddy.Furon/website/Welcome.html">Teddy Furon</a><br>
     INRIA
@@ -60,29 +60,19 @@ The accepted workshop papers will be published in the ACM Digital Library.
   
   <div style="width:22.5%">
     <a href="http://www.cs.ucf.edu/~liujg/">
-    <img alt="Jingen Liu" src="pics/sarah.png">
+    <img alt="Jingen Liu" src="pics/jingen.png">
     </a><br>
   <a href="http://www.cs.ucf.edu/~liujg/">Jingen Liu</a><br>
     JD.com 
   </div>
-  
-  <div style="width:2.5%">
-  </div>
-  
-  <div style="width:22.5%">
-    <a href="http://juliusadebayo.com/">
-    <img alt="Julius Adebayo" src="pics/julius.jpg">
-    </a><br>
-  <a href="http://juliusadebayo.com/">Julius Adebayo</a><br>
-    MIT
-  </div>
+ 
   
   <div style="width:2.5%">
   </div>
   
   <div style="width:22.5%">
     <a href="https://www.crcv.ucf.edu/person/rawat/">
-    <img alt="Yogesh Rawat" src="pics/jacob.png">
+    <img alt="Yogesh Rawat" src="pics/rawat.png">
     </a><br>
   <a href="https://www.crcv.ucf.edu/person/rawat/">Yogesh Rawat</a><br>
     University of Central Florida
@@ -92,7 +82,7 @@ The accepted workshop papers will be published in the ACM Digital Library.
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="http://wzhang.fun/">
-    <img alt="Wei Zhang" src="pics/d.jpg">
+    <img alt="Wei Zhang" src="pics/wei.jpg">
     </a><br>
     <a href="http://wzhang.fun/">Wei Zhang</a><br>
     JD.com
@@ -103,7 +93,7 @@ The accepted workshop papers will be published in the ACM Digital Library.
   
   <div style="width:22.5%">
     <a href="https://www-users.cs.umn.edu/~qzhao/index.html">
-    <img alt="Qi Zhao" src="pics/rich.jpg">
+    <img alt="Qi Zhao" src="pics/qi.jpg">
     </a><br>
   <a href="https://www-users.cs.umn.edu/~qzhao/index.html">Qi Zhao</a><br>
     Microsoft Research
