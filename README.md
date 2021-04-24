@@ -29,6 +29,7 @@ Select the track: “1st International Workshop on Trustworthy AI for Multimedia
 The accepted workshop papers will be published in the ACM Digital Library.
 
 ## Schedule
+
 | Time | Event |
 | ----- | -------|
 | 9:00 | Opening remarks |
