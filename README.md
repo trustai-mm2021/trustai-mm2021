@@ -30,7 +30,7 @@ The accepted workshop papers will be published in the ACM Digital Library.
 
 ## Schedule
 
-| Time | Events |
+| Time | Event |
 | ----- | -------|
 | 9:00 | Opening remarks |
 | 9:10 | Invited talk 1 |
@@ -44,6 +44,72 @@ The accepted workshop papers will be published in the ACM Digital Library.
 | 15:00 | Oral 2 |
 | 15:30 | Oral 3 |
 | 15:45 | Poster Session and tea break |
+
+## Organizers
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="http://people.rennes.inria.fr/Teddy.Furon/website/Welcome.html">
+    <img alt="Teddy Furon" src="pics/hima.jpg">
+    </a><br>
+    <a href="http://people.rennes.inria.fr/Teddy.Furon/website/Welcome.html">Teddy Furon</a><br>
+    INRIA
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="http://www.cs.ucf.edu/~liujg/">
+    <img alt="Jingen Liu" src="pics/sarah.png">
+    </a><br>
+  <a href="http://www.cs.ucf.edu/~liujg/">Jingen Liu</a><br>
+    JD.com 
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="http://juliusadebayo.com/">
+    <img alt="Julius Adebayo" src="pics/julius.jpg">
+    </a><br>
+  <a href="http://juliusadebayo.com/">Julius Adebayo</a><br>
+    MIT
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="https://www.crcv.ucf.edu/person/rawat/">
+    <img alt="Yogesh Rawat" src="pics/jacob.png">
+    </a><br>
+  <a href="https://www.crcv.ucf.edu/person/rawat/">Yogesh Rawat</a><br>
+    University of Central Florida
+  </div>
+</div>
+
+<div style="display: flex">
+  <div style="width:22.5%">
+    <a href="http://wzhang.fun/">
+    <img alt="Wei Zhang" src="pics/d.jpg">
+    </a><br>
+    <a href="http://wzhang.fun/">Wei Zhang</a><br>
+    JD.com
+  </div>
+  
+  <div style="width:2.5%">
+  </div>
+  
+  <div style="width:22.5%">
+    <a href="https://www-users.cs.umn.edu/~qzhao/index.html">
+    <img alt="Qi Zhao" src="pics/rich.jpg">
+    </a><br>
+  <a href="https://www-users.cs.umn.edu/~qzhao/index.html">Qi Zhao</a><br>
+    Microsoft Research
+  </div>
+
+</div>
 
 ## Program Committee
 
