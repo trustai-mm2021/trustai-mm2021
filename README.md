@@ -49,7 +49,7 @@ The accepted workshop papers will be published in the ACM Digital Library.
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="http://people.rennes.inria.fr/Teddy.Furon/website/Welcome.html">
-    <img alt="Teddy Furon" src="pics/teddy.jpg">
+    <img alt="Teddy Furon" src="pics/teddy.jpeg">
     </a><br>
     <a href="http://people.rennes.inria.fr/Teddy.Furon/website/Welcome.html">Teddy Furon</a><br>
     INRIA
