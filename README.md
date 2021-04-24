@@ -1,8 +1,8 @@
 # Overview
-This workshop addresses the trustworthy issues in Multimedia Computing. Its scope is at the conjunction of multimedia and trustworthy AI, including the model’s explicability, robustness - security & safety, data privacy, accountability & transparency, and fairness.
+In this workshop, we aim to address the trustworthy issues of Multimedia Computing. We aim to bring together researchers in the Trustworthy aspect of Multimedia Computing and facilitate discussions in injecting trusts into multimedia to develop trustworthy techniques that are reliable and acceptable to multimedia researchers and practitioners. Our scope is at the conjunction of multimedia and trustworthy AI, including Explainability, Robustness & Safety, Data Privacy, Accountability & Transparency, and Fairness.
 
 # Call for Contributions
-More precisely, we expect submissions covering any topic closely related to the multimedia community AND falling in one (or many) of the following categories (but not limited to):
+We believe the workshop will offer a timely collection of research updates to benefit the people working in the broad fields ranging from multimedia, computer vision to machine learning. To this end, we solicit original research and survey papers addressing the topics listed below (but not limited to):
 - Interpretable AI methods for Multimedia Computing
 - Robustness of Multimedia Computing
 - Security/safety and privacy in Multimedia processing
@@ -28,3 +28,31 @@ Use the following link: [https://cmt3.research.microsoft.com/ACMMM2021/](https:/
 Select the track: “1st International Workshop on Trustworthy AI for Multimedia Computing”
 The accepted workshop papers will be published in the ACM Digital Library.
 
+## Schedule
+| Time | Event |
+| ----- | -------|
+| 9:00 | Opening remarks |
+| 9:10 | Invited talk 1 |
+| 9:45 | Invited talk 2 |
+| 10:20 | Invited talk 3 |
+| 10:55 | Invited talk 4 |
+| 11:30 | Invited talk 5 |
+| 12:05 | Lunch break |
+| 14:00 | Invited talk 6 |
+| 14:30 | Oral 1 |
+| 15:00 | Oral 2 |
+| 15:30 | Oral 3 |
+| 15:45 | Poster Session and tea break |
+
+## Program Committee
+
+| --- | --- |
+| Ping Liu | Sr. Research Scientist, A*STAR, Singapore |
+| Naveed Akhtar | Assistant Professor, University of Western Australia, Australia |
+| Zheng Sou | Research Scientist, Facebook AI, USA |
+| Jian Liu | JD.com Silicon Valley Research Labs, USA |
+| Ziyan Wu | Principal Scientist, United Imaging Intelligence, USA |
+| Fisher Yu | Assistant Professor, ETH Zürich |
+| Huazhu Fu | Senior Scientist, IIAI, United Arab Emirates |
+| Yingwei Pan | Research Scientist, JD AI Research, China |
+| Yalong Bai | Research Scientist, JD AI Research, China |
