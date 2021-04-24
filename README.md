@@ -60,7 +60,7 @@ The accepted workshop papers will be published in the ACM Digital Library.
   
   <div style="width:22.5%">
     <a href="http://www.cs.ucf.edu/~liujg/">
-    <img alt="Jingen Liu" src="pics/jingen.png">
+    <img alt="Jingen Liu" src="pics/jingen.jpg">
     </a><br>
   <a href="http://www.cs.ucf.edu/~liujg/">Jingen Liu</a><br>
     JD.com 
@@ -72,7 +72,7 @@ The accepted workshop papers will be published in the ACM Digital Library.
   
   <div style="width:22.5%">
     <a href="https://www.crcv.ucf.edu/person/rawat/">
-    <img alt="Yogesh Rawat" src="pics/rawat.png">
+    <img alt="Yogesh Rawat" src="pics/rawat.jpg">
     </a><br>
   <a href="https://www.crcv.ucf.edu/person/rawat/">Yogesh Rawat</a><br>
     University of Central Florida
