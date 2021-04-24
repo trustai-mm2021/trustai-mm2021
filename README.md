@@ -30,7 +30,7 @@ The accepted workshop papers will be published in the ACM Digital Library.
 
 ## Schedule
 
-| Time | Event |
+| Time | Events |
 | ----- | -------|
 | 9:00 | Opening remarks |
 | 9:10 | Invited talk 1 |
