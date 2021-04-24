@@ -6,7 +6,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="https://www.ceessnoek.info/">
-    <img alt="Cees Snoek" src="pics/teddy.jpeg">
+    <img alt="Cees Snoek" src="pics/cees.jpeg">
     </a><br>
     <a href="https://www.ceessnoek.info/">Cees Snoek</a><br>
     University of Amsterdam
@@ -17,7 +17,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
   
   <div style="width:22.5%">
     <a href="https://web.eecs.umich.edu/~kuipers/">
-    <img alt="Benjamin Kuipers" src="pics/jingen.jpg">
+    <img alt="Benjamin Kuipers" src="pics/benjamin.jpg">
     </a><br>
   <a href="https://web.eecs.umich.edu/~kuipers/">Benjamin Kuipers</a><br>
     University of Michigan
@@ -28,7 +28,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
   
   <div style="width:22.5%">
     <a href="https://aisecure.github.io/">
-    <img alt="Bo Li" src="pics/rawat.jpg">
+    <img alt="Bo Li" src="pics/bo.jpg">
     </a><br>
   <a href="https://aisecure.github.io/">Bo Li</a><br>
     UIUC
@@ -36,7 +36,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
   
   <div style="width:22.5%">
     <a href="https://ajmalsaeed.net/">
-    <img alt="Ajmal Mian" src="pics/wei.jpg">
+    <img alt="Ajmal Mian" src="pics/ajmal.jpg">
     </a><br>
     <a href="https://ajmalsaeed.net/">Ajmal Mian</a><br>
     University of Western Australia
@@ -46,7 +46,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
 <div style="display: flex">
   <div style="width:22.5%">
     <a href="http://tingyao.deepfun.club/">
-    <img alt="Ting Yao" src="pics/teddy.jpeg">
+    <img alt="Ting Yao" src="pics/ting.jpeg">
     </a><br>
     <a href="http://tingyao.deepfun.club/">Ting Yao</a><br>
     JD.com
@@ -57,7 +57,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
   
   <div style="width:22.5%">
     <a href="https://www.yf.io/">
-    <img alt="Fisher Yu" src="pics/jingen.jpg">
+    <img alt="Fisher Yu" src="pics/fisher.jpg">
     </a><br>
   <a href="https://www.yf.io/">Fisher Yu</a><br>
     ETH Zurich
