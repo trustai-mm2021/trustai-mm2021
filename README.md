@@ -62,7 +62,7 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
   <a href="https://www.yf.io/">Fisher Yu</a><br>
     ETH Zurich
   </div>
-<\div>
+
 
 
 
