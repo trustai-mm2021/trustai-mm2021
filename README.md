@@ -181,3 +181,5 @@ The accepted workshop papers will be published in the ACM Digital Library.
 | Huazhu Fu | Senior Scientist, IIAI, United Arab Emirates |
 | Yingwei Pan | Research Scientist, JD AI Research, China |
 | Yalong Bai | Research Scientist, JD AI Research, China |
+| Rahul Ambati | PhD Student, University of Central Florida |
+| Aayush Rana | PhD Student, University of Central Florida |
