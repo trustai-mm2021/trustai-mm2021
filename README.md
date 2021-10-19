@@ -11,7 +11,7 @@ This is how you dropdown.
 
 # tst
 <div style="width:22.5%">
-    <img style="float: right>
+    <img style="float: right;">
     <a href="https://www.ceessnoek.info/">
     <img alt="Cees Snoek" src="pics/cees.jpg">
     </a><br>
