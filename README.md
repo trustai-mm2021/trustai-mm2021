@@ -9,6 +9,16 @@ In this workshop, we aim to address the trustworthy issues of Multimedia Computi
 This is how you dropdown.
 </details>
 
+# tst
+<div style="width:22.5%">
+    <a href="https://www.ceessnoek.info/">
+    <img alt="Cees Snoek" src="pics/cees.jpg">
+    </a><br>
+    <a href="https://www.ceessnoek.info/">Cees Snoek</a><br>
+    University of Amsterdam
+  </div>
+  
+  
 # Speakers
 
 <div style="display: flex">
